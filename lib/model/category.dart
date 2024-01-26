@@ -7,5 +7,5 @@ class CategoryModel {
     required this.name,
     required this.image,
   });
-  factory CategoryModel.
+  // factory CategoryModel.
 }
